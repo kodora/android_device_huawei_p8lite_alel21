@@ -25,7 +25,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
 
 #Overlay
-DEVICE_PACKAGE_OVERLAYS := device/HUAWEI/hi6210sft/overlay
+#DEVICE_PACKAGE_OVERLAYS := device/HUAWEI/hi6210sft/overlay
 
 
 PRODUCT_PACKAGES += \
